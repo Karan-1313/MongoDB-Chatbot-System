@@ -64,8 +64,12 @@ htmlcov/
 .dmypy.json
 dmypy.json
 
-# Kiro specs (optional - uncomment if you don't want to share specs)
-# .kiro/specs/
+# Kiro specs and setup files
+.kiro/
+COMMANDS.md
+GITHUB_SETUP.md
+PUSH_NOW.md
+READY_TO_PUSH.md
 
 # Database files
 *.db
